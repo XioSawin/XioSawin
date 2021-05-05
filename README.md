@@ -7,7 +7,7 @@
 - 📫 x.r.sawin@gmail.com or @xiosawin on twitter.
 - ⚡ Will pay attention to any sport being shown on TV & immediately become a super fan. 
 - :checkered_flag: Currently obsessed with F1. 
-- :runner: Amateur Runner
+- :runner: I run for fun.
 
 <hr>
 <b> :es: Hola mundo 👋 Soy Xiomara! </b>
@@ -19,4 +19,4 @@
 - 📫 x.r.sawin@gmail.com o @xiosawin on twitter.
 - ⚡ Le voy a prestar atención a cualquier deporte que se esté transmitiendo en la TV & me voy a convertir en super fan. 
 - :checkered_flag: Ahora: obsesionada con la F1. 
-- :runner: Runner Amateur
+- :runner: Corro por diversión.
