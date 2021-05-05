@@ -11,7 +11,7 @@
 
 <hr>
 <b> :es: Hola mundo 👋 Soy Xiomara! </b>
-</br>
+
 - :mortar_board: Gradué de la universidad en el 2019 con una tecnicatura en Programación de Sistemas.
 - :computer: En este momento: especializándome en Backend Development.
 - :mag: Interesada en data - AI - ML y su relación con los deportes.
