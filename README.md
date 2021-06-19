@@ -1,7 +1,7 @@
 <b> :us: Hello world 👋 I'm Xiomara! </b>
 
 - :mortar_board: Graduated college in 2019 & have a Computer Programming degree.
-- :computer: Currently specializing on Backend Development.
+- :computer: Currently specializing in Backend Development.
 - :mag: Curious about data - AI - ML and its relation to sports.
 - 👯 Volunteer @ <a href="https://chicasentecnologia.org">Chicas en Tecnología</a>. #EmbajadoraCET.
 - 📫 x.r.sawin@gmail.com or @xiosawin on twitter.
